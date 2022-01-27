@@ -1,3 +1,5 @@
+![https://s21.picofile.com/file/8447028218/CRUD_flare_framework1.PNG](https://s21.picofile.com/file/8447028218/CRUD_flare_framework1.PNG)
+![https://s21.picofile.com/file/8447028226/CRUD_flare_framework2.PNG](https://s21.picofile.com/file/8447028226/CRUD_flare_framework2.PNG)
 # Flare Framework
 Made by Sajjad Eftekhari![](https://manbaenab.ir/uploads/Flare.png)
 ## What is Flare?
